@@ -1,0 +1,21 @@
+[
+  {
+    "task": "ce faci ma joc",
+    "completed": false,
+    "isEditing": false,
+    "id": "19d99aab-7e05-48e2-a42b-5579ef6fa6d4"
+  }
+]
+
+
+echo "# FullStackTodoList" >> README.md
+git init
+git add README.md
+git commit -m "first commit"
+git branch -M main
+git remote add origin https://github.com/armando3069/FullStackTodoList.git
+git push -u origin main
+
+git remote add origin https://github.com/armando3069/TodoList-
+git branch -M main
+git push -u origin main
